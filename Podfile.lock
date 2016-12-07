@@ -1,0 +1,27 @@
+PODS:
+  - CryptoSwift (0.5.1)
+  - IQKeyboardManagerSwift (4.0.3)
+  - SwiftAddressBook (0.6.2)
+  - SwiftDDP (0.3.1):
+    - CryptoSwift (~> 0.3)
+    - SwiftWebSocket (~> 2.6.0)
+    - XCGLogger
+  - SwiftWebSocket (2.6.2)
+  - XCGLogger (3.3)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SwiftAddressBook
+  - SwiftDDP (~> 0.3.1)
+
+SPEC CHECKSUMS:
+  CryptoSwift: df42dda18baf6c76347a94e227dbcc0a341304bd
+  IQKeyboardManagerSwift: b6883b720b0e76473692fdc80828442566e1075f
+  SwiftAddressBook: 88c68c6bd0c6a9cb10e5cdc80f91fd87b5e0f4ec
+  SwiftDDP: d99fb617559e19ebb3651fa2b95ee7e35d8451f1
+  SwiftWebSocket: 2bb9dda75c87f64eaf9768131141857ca8611aac
+  XCGLogger: d6e196e78940ff6daab17d6917107876f973fa31
+
+PODFILE CHECKSUM: 7226958d7731898cca9b386866c598ad684187b0
+
+COCOAPODS: 1.1.1

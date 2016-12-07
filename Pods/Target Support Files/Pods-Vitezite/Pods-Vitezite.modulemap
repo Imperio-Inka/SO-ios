@@ -1,0 +1,6 @@
+framework module Pods_Vitezite {
+  umbrella header "Pods-Vitezite-umbrella.h"
+
+  export *
+  module * { export * }
+}
